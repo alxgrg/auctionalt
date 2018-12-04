@@ -117,7 +117,7 @@
 
 				<div class="column has-text-centered">
 
-					<a href="/services/webuy"  class="box services-box" exact>
+					<a href="/services/sell"  class="box services-box" exact>
 						<article class="media">
 							<div class="media-left services-icon">
 								<figure class="image is-96x96">

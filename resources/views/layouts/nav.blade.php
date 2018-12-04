@@ -56,7 +56,7 @@
 
                         <hr class="navbar-divider">
 
-                        <a class="navbar-item {{ setActive('services/webuy', 'is-active') }}" href="/services/webuy">
+                        <a class="navbar-item {{ setActive('services/sell', 'is-active') }}" href="/services/sell">
                             <span>
                                 <span class="icon is-small">
                                     {{-- <img src="/img/money-icon.svg" alt="We Buy Icon"> --}}

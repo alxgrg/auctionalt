@@ -11,7 +11,7 @@
                     <p class="footer-link-title"> Services </p>
                     <p><a href="/services/estates"  tag="a" exact>Estates</a></p>
                     <p><a href="/services/appraisals"  tag="a" exact>Appraisals</a></p>
-                    <p><a href="/services/webuy"  tag="a" exact>We Buy</a></p>
+                    <p><a href="/services/sell"  tag="a" exact>We Buy</a></p>
                 </div>
 
                 <div class="column">
