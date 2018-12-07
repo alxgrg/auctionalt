@@ -33,6 +33,8 @@
     <meta property="twitter:url" content="{{ url()->current() }}" />
     <meta property="twitter:image" content="{{ url('/img/twitter-card-image.png') }}" />
 
+    <meta name="msvalidate.01" content="64C342EB89E6790D1F457996E9EBE5FE" />
+
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
