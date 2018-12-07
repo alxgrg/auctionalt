@@ -17,7 +17,7 @@
 				<div class="columns">
 					<div class="column animated fadeIn">
 						<h1 class="title is-2 has-text-weight-normal">
-							Estate Sales and Downsizing, Made Simple.
+							Estate Sales and Downsizing Made Simple.
 						</h1>
 						<p class="subtitle is-5">
 							Auction Alternative does more than just buy estates. We provide a suite of services to assist you in any or all of your estate needs, from buying estates outright, to handling entire downsizing processes. 
