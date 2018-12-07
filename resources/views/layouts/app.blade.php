@@ -40,7 +40,8 @@
     <title>@yield('title')</title>
 
     <!-- Styles -->
-    <link rel="icon" href="/img/fav.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" href="/img/fav.png">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto: 400, 400bold" rel="stylesheet">
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet"
