@@ -2,7 +2,7 @@
 
 @section('title', 'Auction Alternative - Estate buyers and downsizing specialists since 1994')
 
-@section('description', 'Auction Alternative provides proffesional estate downsizing services, paying cash on the spot for valuables, and buying complete and partial estates.')
+@section('description', 'Auction Alternative provides professional estate downsizing services, paying cash on the spot for valuables, and buying complete and partial estates.')
 
 @section('content')
 
