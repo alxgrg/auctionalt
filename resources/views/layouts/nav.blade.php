@@ -32,8 +32,8 @@
                         <a class="navbar-item {{ setActive('services/estates', 'is-active') }}" href="/services/estates">
                             <span>
                                 <span class="icon is-small">
-                                    {{-- <img src="/img/estates-icon.svg" alt="Estates Icon"> --}}
-                                    @svg('estates-icon', 'nav-service-icon')
+                                    <img src="/img/estates-icon.svg" alt="Estates Icon">
+                                    {{-- @svg('estates-icon', 'nav-service-icon') --}}
                                 </span>
                                 <strong>Estates</strong>
                                 <br>
