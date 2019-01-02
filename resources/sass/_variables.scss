@@ -104,11 +104,12 @@ $navbar-item-img-max-height: 2rem;
 .navbar-dropdown{
 	display: block!important;
 	
-	
+	pointer-events: auto;
 }
 @media (min-width: 1025px) {
 	.navbar-dropdown{
 		opacity: 0;
+		pointer-events: none;
 	}
 }
 .navbar-item.is-hoverable:hover .navbar-dropdown, .navbar-dropdown:focus-within{
