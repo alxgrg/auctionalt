@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', "Auction Alternative - Kingston's Estate buyers and downsizing specialists since 1994")
+@section('title', "Auction Alternative - Kingston's estate buyers and downsizing specialists since 1994")
 
 @section('description', 'Auction Alternative provides professional estate downsizing services, paying cash on the spot for valuables, and buying complete and partial estates.')
 
