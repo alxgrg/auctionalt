@@ -18,7 +18,7 @@
     <meta name="description" content="@yield('description')">
     <meta name="theme-color" content="#0faaf4"/>
 
-    <link rel="canonical" href="https://auctionalternative.ca/">
+    <link rel="canonical" href="{{ url()->current() }}">
 
     <!-- Social Media Tags -->
     <meta property="og:title" content="@yield('title')" />
