@@ -13,6 +13,6 @@ class ContactController extends Controller
 {
     public function store(ContactFormRequest $request)
     {
-        Mail::to('nrmngrg@gmail.com')->send(new MailSent($request));
+        Mail::to('info@auctionalternative.ca')->send(new MailSent($request));
     }
 }
