@@ -27,6 +27,13 @@
                     © Auction Alternative
                 </div>
             </div>
+            <div class="columns">
+                <div class="column is-6">
+                    <a href="https://www.facebook.com/auctionalternative" class="icon is-small">
+                        @svg('flogo-Hex-RGB-MedGrey-58', 'fb-social-icon')
+                    </a>
+                </div>
+            </div>
 
         </div>
     </div>
