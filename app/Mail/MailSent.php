@@ -32,7 +32,7 @@ class MailSent extends Mailable
     {
         return $this
             ->from($this->contact->email)
-            ->subject('test')
-            ->view('emails.contact');
+            ->subject('You have received an email from auctionalternative.ca')
+            ->markdown('emails.contact');
     }
 }
