@@ -9,7 +9,7 @@ E-mail: {{ $contact['email'] }}
 Message: {{ $contact['message'] }} --}}
 
 
-@component(‘mail::message’)
+@component('mail::message')
  <p>A user has sent you a message from auctionalternative.ca: </p>
  <br>
  <p> <strong>Name: </strong> {{ $contact['name'] }} </p>
