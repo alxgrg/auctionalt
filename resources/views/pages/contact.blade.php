@@ -48,6 +48,11 @@
     		</div>
       
     	</div>
+        <div class="columns">
+            <div class="column has-text-centered">
+                <p>Reach us by email at <a href="mailto:info@auctionalternative.ca">info@auctionalternative.ca</a></p>
+            </div>
+        </div>
     
 	</div>
   
